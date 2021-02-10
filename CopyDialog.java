@@ -1,4 +1,4 @@
-package ru.ursna.freenumbers.views;
+package com.example.views;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -12,7 +12,7 @@ import android.widget.LinearLayout.LayoutParams;
 import com.google.android.material.button.MaterialButton;
 import com.google.android.material.textfield.TextInputEditText;
 
-import ru.ursna.freenumbers.R;
+import com.example.R;
 
 public class CopyDialog extends Dialog {
     public CopyDialog(Context context, String text) {
