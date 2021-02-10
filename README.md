@@ -7,6 +7,7 @@ Simple copy dialog
 
 # Add to project
 Copy CopyDialog.java and copy_dialog.xml to Project and fix paths
+
 Need ![Material Components for Android](https://github.com/material-components/material-components-android)
 
 # Using
