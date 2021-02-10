@@ -3,8 +3,8 @@ Simple copy dialog
 
 # Exaple
 
-![Example 1](imeges/Screenshot_1612957753.png)
-![Example 2](imeges/Screenshot_1612957748.png)
+<img src="imeges/Screenshot_1612957753.png" width="30%">
+<img src="imeges/Screenshot_1612957748.png" width="30%">
 
 # Add to project
 Copy CopyDialog.java and copy_dialog.xml to Project and fix paths
