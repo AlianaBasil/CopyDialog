@@ -1,0 +1,2 @@
+# CopyDialog
+Simple copy dialog
